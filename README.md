@@ -59,7 +59,15 @@ The goal was to build an end-to-end cloud data warehousing solution:
 
 ## ✅ Conclusion
 
-This project provided hands-on experience with designing a scalable data warehousing architecture, loading data into cloud systems, and transforming raw data into meaningful visuals using Tableau. The ability to model business logic through ETL pipelines, maintain historical accuracy via SCD, and present data visually sets a strong foundation for analytics and BI roles.
+The dashboard provides a clear visualization of product-wise performance across sales and unit metrics:
+
+- **Eggs** emerged as the top-selling product with **2,340 units sold**, outperforming other categories both in quantity and revenue.
+- **Chocolate Chip Cookies** also performed well with **2,220 units**, followed closely by **Soba**.
+- **Cinnamon Bread Loaf** and **Kulcha** had the **lowest unit sales**, signaling opportunities for either promotional efforts or inventory reconsideration.
+- The **line chart** illustrates sales trends across the five products, helping identify peak and drop points in unit movement.
+
+These insights can help businesses optimize product stocking, tailor promotional strategies, and understand consumer preferences based on unit-level sales performance.
+
 
 ---
 
