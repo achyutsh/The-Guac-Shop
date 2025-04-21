@@ -74,6 +74,6 @@ These insights can help businesses optimize product stocking, tailor promotional
 ## 👤 Author
 
 **Achyut S Kulkarni**  
-📧 achyutsh@buffalo.edu  
+📧 achyutskulkarni24@gmail.com 
 🎓 Master's in MIS – University at Buffalo
 
