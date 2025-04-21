@@ -46,11 +46,11 @@ The goal was to build an end-to-end cloud data warehousing solution:
 
 ## 📷 Screenshots
 
+### 🗃 ER Diagram
+![ER diagram](dimensional-model.png)
+
 ### 📌 ETL Workflow in Apache Hop
 ![ETL Pipeline](etl-pipeline.png)
-
-### 🗃 Sample Dimensional Table
-![Dim_Product](dimensional-model.png)
 
 ### 📊 Tableau Dashboard
 ![Tableau Dashboard](Dashboard.png)
